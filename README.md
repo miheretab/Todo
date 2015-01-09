@@ -1,4 +1,4 @@
-It is done in codeigniter and mysql
+It is done in CodeIgniter and MySQL
 
 The databse dump is found in sql/cisample.sql
 
@@ -10,3 +10,5 @@ you can add to do list, edit it and complete it
 The completed list is in different page
 
 you can also change the profile using ../profile
+
+For the admin there is page also
